@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "vixlauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "vixlauncher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et vixox",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/vixoxlevrais/vixlauncher.git"
   }
 }
